@@ -1,0 +1,6 @@
+# requirements.txt placeholder
+fastapi
+uvicorn
+boto3
+openai
+pinecone-client

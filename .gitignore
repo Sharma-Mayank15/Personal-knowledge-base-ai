@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.next/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS & Editor junk
+.DS_Store
+*.log
+.vscode/
