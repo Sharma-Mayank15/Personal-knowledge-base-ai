@@ -67,7 +67,7 @@ uvicorn app:app --reload
 
 Here's how the app looks:
 
-![App Preview](./public/preview.png)
+![App Preview](.preview.png)
 
 ---
 
