@@ -10,7 +10,7 @@
 
 ### 📚 Problem
 
-In the age of digital overload, we save everything — PDFs, notes, bookmarks — but finding useful info when we actually need it? Painful.
+In the age of digital overload, we save everything — PDFs, notes, bookmarks — but finding useful info when we need it? Painful.
 
 ---
 
@@ -58,7 +58,7 @@ npm run dev
 # Set up backend
 cd ../backend
 pip install -r requirements.txt
-uvicorn app:app --reload
+uvicorn app: app-- reload
 ```
 
 ---
